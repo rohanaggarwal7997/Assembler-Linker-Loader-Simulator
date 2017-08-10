@@ -17,6 +17,7 @@ Increment and Decrement using Macros expansion
 For vairable assignment 
 
 var a= variable_name
+
 OR var a= numeric_value
 
 For arithmetic
@@ -26,26 +27,39 @@ variable = variable/digit (operator) variable/digit
 For loops
 
 loop no_of_times
+
 /// content
+
     of 
+    
     loop
+    
 ///
+
 endloop
 
 For conditions
+
 if (variable1) > (variable2)
+
 ///content
+
 ///
+
 endif
 
 OR
 
 if (variable1) = (variable2)
+
 ///content
+
 ///
+
 endif
 
 Increment / Decrement
 
 variable++
+
 variable--
